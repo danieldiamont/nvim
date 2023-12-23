@@ -1,0 +1,3 @@
+require("ddiamont")
+print("hello")
+
